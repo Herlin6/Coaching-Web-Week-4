@@ -1,0 +1,37 @@
+.bodybg{
+    background-image:linear-gradient(to bottom right, rgb(54, 23, 255,.4),rgb(56, 137, 250,.4),rgb(174, 240, 253,.4));
+    /* background-color: rgb(107, 131, 252); */
+}
+.nav_link{
+    background-color:white;
+}
+.nav_link:hover{
+    transform: scale(1.08)
+}
+.nav-link:hover{
+    background-color: rgb(255,255,255,.1);
+}
+.nav-link{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.navbar-brand{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.card{
+    transition: 0.3s;
+}
+.product_card:hover{
+    transform: scale(1.02)
+}
+.nav_font{
+    font-family:cursive;
+}
+.footer_icon:hover{
+    color:rgb(184, 183, 183);
+}
+.bi-person-circle{
+    font-size:100px;
+}
+.bi-star-fill:hover{
+    font-size: 107%;
+}
